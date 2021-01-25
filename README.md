@@ -10,7 +10,7 @@ Languages and Frameworks ✍
 <br>
 Aarav has knowledge in Python, JavaScript, HTML / CSS, and SQL.
 
-Some frameworks Aarav knows are Bootstrap and Flask. He also knows
+Some frameworks Aarav knows are Bootstrap and Flask.
 <br>
 <hr>
 Concepts I am Learning and Exlporing
